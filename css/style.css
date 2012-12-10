@@ -1,3 +1,23 @@
 .page-content {
-    padding: 50px 0;
+    padding: 150px 0;
+}
+
+.container {
+    width: 1170px;
+}
+
+.navbar-inner {
+    min-height: 125px;
+}
+
+.brand-img {
+    position: fixed;
+    z-index: 2;
+    display: block;
+    margin-top: -10px;
+    margin-left: 550px;
+}
+
+.navbar-fixed-top {
+    z-index: 1;
 }
