@@ -2,7 +2,7 @@
 	"use strict";
         
     $('.carousel').carousel({
-        interval: 5000
+        interval: 7000
     })
         
 }(window.jQuery);

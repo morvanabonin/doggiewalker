@@ -67,10 +67,10 @@ sub {
 }
 
 img {
-  width: auto\9;
+  /*  width: auto\9;*/
   height: auto;
   max-width: 100%;
-  vertical-align: middle;
+  /* vertical-align: middle;*/
   border: 0;
   -ms-interpolation-mode: bicubic;
 }
@@ -160,7 +160,7 @@ textarea {
 
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   line-height: 20px;
   color: #333333;
@@ -207,7 +207,7 @@ a:hover {
 .row:before,
 .row:after {
   display: table;
-  line-height: 0;
+  line-height: 0; 
   content: "";
 }
 
@@ -340,7 +340,7 @@ a:hover {
   clear: both;
 }
 
-.row-fluid [class*="span"] {
+.row-fluid > [class*="span"] {
   display: block;
   float: left;
   width: 100%;
@@ -352,7 +352,7 @@ a:hover {
           box-sizing: border-box;
 }
 
-.row-fluid [class*="span"]:first-child {
+.row-fluid > [class*="span"]:first-child {
   margin-left: 0;
 }
 

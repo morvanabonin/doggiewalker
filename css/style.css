@@ -1,15 +1,19 @@
-.page-content {
-    padding: 150px 0;
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }
 
-.container {
-    /*width: 1180px;*/
+body {
+    padding-top: 80px;
+    padding-bottom: 40px;
+    display: block;
+    font-family: 'Open Sans', sans-serif;
 }
 
-.navbar-inner {
-    min-height: 100px;
+.navbar .brand {
+    padding: 10px 25px 10px;
 }
-
 .brand-img {
     position: fixed;
     z-index: 2;
@@ -17,12 +21,9 @@
     margin-top: -15px;
 }
 
-.navbar-fixed-top {
-    z-index: 1;
-}
-
-.nav-collapse .nav{
-   margin-left: 200px;
-   margin-top: 30px;
-   font-size: 18px;
+img {
+    max-width: 100%;
+    height: auto;
+    border: 0;
+  -ms-interpolation-mode: bicubic;
 }
