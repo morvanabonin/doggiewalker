@@ -9,6 +9,7 @@ body {
     padding-bottom: 40px;
     display: block;
     font-family: 'Open Sans', sans-serif;
+    background: #F0F0F0 url(../img/bg.jpg);
 }
 
 .navbar .brand {
@@ -27,3 +28,16 @@ img {
     border: 0;
   -ms-interpolation-mode: bicubic;
 }
+
+#nosso_trabalho {
+    padding-top: 6rem;
+}
+
+.page-title {
+    position: relative;
+    margin-top: 30px;
+    background: url(../img/title_sep.png) repeat-x bottom;
+    padding-bottom: 20px;
+    margin-bottom: -50px;
+}
+
