@@ -29,7 +29,7 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
-#nosso_trabalho {
+#nosso_trabalho, #fotos {
     padding-top: 6rem;
 }
 
@@ -39,5 +39,11 @@ img {
     background: url(../img/title_sep.png) repeat-x bottom;
     padding-bottom: 20px;
     margin-bottom: -50px;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 9px;
+    margin: 20px 0 30px;
 }
 
