@@ -1,3 +1,8 @@
+@media screen (max-width: 960px) {
+
+
+}
+
 html {
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
@@ -63,4 +68,3 @@ h1 {
     animation-fill-mode: forwards;
     cursor: pointer;
 }
-

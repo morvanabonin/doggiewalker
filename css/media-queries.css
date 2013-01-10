@@ -1,0 +1,36 @@
+/************************************************************************************
+smaller than 980
+*************************************************************************************/
+@media screen and (max-width: 980px) {
+    #home {
+       padding-top: 0px; 
+    }
+    #nav-collapse #nav {
+        margin-left: 5px;
+        margin-top: 0px;
+        font-size: 12px;
+    }
+    
+    #navbar #brand {
+        font-weight: 600;
+        color: #A2A0A0;
+    }
+    
+    #navbar-inner {
+        min-height: 50px;
+     }
+     
+     #img-logo {
+        display: none;
+     }
+}
+/************************************************************************************
+smaller than 980
+*************************************************************************************/
+@media screen and (min-width: 980px) {
+    
+    #text-logo {
+        display: none;
+    }
+     
+}
