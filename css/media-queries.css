@@ -2,8 +2,8 @@
 smaller than 980
 *************************************************************************************/
 @media screen and (max-width: 980px) {
-    #home {
-       padding-top: 0px; 
+    #home { 
+       padding-top: 40px;
     }
     #nav-collapse #nav {
         margin-left: 5px;
@@ -14,18 +14,27 @@ smaller than 980
     #navbar #brand {
         font-weight: 600;
         color: #A2A0A0;
+        position: absolute;
     }
     
     #navbar-inner {
         min-height: 50px;
-     }
+    }
      
-     #img-logo {
-        display: none;
-     }
+    #img-logo {
+       display: none;
+    }
+     
+    .navbar-fixed-top, .navbar-fixed-bottom {
+       position: fixed;
+    }
+    
+    .btn, .btn-navbar {
+        margin-right:50px;
+    }
 }
 /************************************************************************************
-smaller than 980
+biggest than 980
 *************************************************************************************/
 @media screen and (min-width: 980px) {
     
