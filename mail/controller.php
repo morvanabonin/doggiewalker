@@ -1,6 +1,7 @@
 <?php
     require_once 'Mail.php';
-
+    
+	echo("<pre>".print_r($_POST , 1)."</pre>");
     if (!empty($_POST['acao'])) {
     switch ($_POST['acao']) {
         case ('enviar'):
