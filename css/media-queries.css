@@ -29,8 +29,9 @@ smaller than 980
        position: fixed;
     }
     
-    .btn, .btn-navbar {
-        margin-right:50px;
+    .navbar .btn-navbar {
+        display: block;
+        margin-right: 25px;
     }
 }
 /************************************************************************************

@@ -84,22 +84,22 @@
                     </div>
                     <div class="row">
                         <div class="span4">
-                            <p>Com mais de cinco anos trabalhando com cães em Porto Alegre. Nosso trabalho presa por qualidade. Ao longo desses anos, aprendemos a conhecer o e respeitar o que para o animal é primordial em um passeio: cheirar, brincar e interagir com outros cachorros.</p>
+                            Com mais de cinco anos trabalhando com cães em Porto Alegre, no bairro Bom Fim e arredores. Nosso trabalho tem como missão presar a qualidade do passeio. Ao longo desses anos trabalhando com cães, aprendemos a conhecer o e respeitar o que para o animal é primordial em um passeio: cheirar, brincar e interagir com outros cães.
                         </div>
                         <div class="span4">
-                            <p>Isso nos fez aprender que não só em tamanhos ou raças os cães são diferentes, eles se diferenciam muito pela idade também, um cão mais velho vai se contentar em apenas cheirar, enquanto os mais novos querem brincar, correr, conhecer novos cachorros, além de cheirar, claro, tudo e o quanto mais for possível.</p>
+                            Isso nos fez aprender que não só em tamanhos ou raças os cães são diferentes, eles se diferenciam muito pela idade também, um cão mais velho vai se contentar em apenas cheirar, enquanto os mais novos querem brincar, correr, conhecer novos cães, além de cheirar, claro, tudo e o quanto mais for possível e viavél.
                         </div>
                         <div class="span4">
-                            <p>Dessa forma deixamos os cães mais livres e não correndo o risco de perder o controle sobre os outros, ou se no meio desses vários cães um for um pouco mais agressivo, acabarão os outros mais mansos e que apenas querem cheirar, pagando por isso. Qualidade de passeio para nós é isso. E para você que ama seu cachorro, o que é?</p>
+                            Dessa forma deixamos os cães mais livres e não correndo o risco de perder o controle sobre os outros, ou se no meio desses vários cães um for um pouco mais agressivo, acabarão os outros mais mansos e que apenas querem cheirar, pagando por isso. Qualidade de passeio para nós é isso. E para você que ama seu cão, o que é?
                         </div>
                     </div>
                 <!-- Nosso Serviço - 2ª linha  -->
                     <div class="row">
                         <div class="span4">
-                            <p>Se o nosso mundo é rico em imagens, a dos cães, vem carregado de cheiros e sensações. E qualquer coisa acompanha uma porção de informações: um poste é uma fonte rica de notícias, diz se outro animal passou por ali, quem era, e há quanto tempo isso ocorreu.</p>
+                            Se o nosso mundo é rico em imagens, a dos cães, vem carregado de cheiros e sensações. E qualquer coisa acompanha uma porção de informações: um poste é uma fonte rica de notícias, diz se outro animal passou por ali, quem era, e há quanto tempo isso ocorreu.
                         </div>
                         <div class="span4">
-                            <p>E é através desse aprendizado e entendimento que desenvolvemos nossa ideia de trabalho de passear com poucos cães para justamente dar essa oportunidade e liberdade para o animal, optamos por pegar mais horários do que em uma hora pegar mais cães.</p>
+                            E é através desse aprendizado e entendimento que desenvolvemos nossa ideia de trabalho de passear com poucos cães para justamente dar essa oportunidade e liberdade para o animal, optamos por pegar mais horários do que em uma hora pegar mais cães.
                         </div>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                     <div class="row">
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_1.png">
-                            <h5>Belinha brincando</h5>
+                            <h5>Java e Belinha passeando</h5>
                         </div>
 
                         <div class="span3 portthumb">
@@ -121,35 +121,35 @@
                         </div>
 
                         <div class="span3 portthumb">
-                            <img class="img-foto" src="img/portfolioph.jpg" alt="">
-                            <h5>Thumbnail label</h5>
+                            <img class="img-foto" src="img/fotos/foto_3.png" alt="">
+                            <h5>Lola</h5>
                         </div>
 
                         <div class="span3 portthumb">
-                            <img class="img-foto" src="img/portfolioph.jpg" alt="">
-                            <h5>Thumbnail label</h5>
+                            <img class="img-foto" src="img/fotos/foto_4.png" alt="">
+                            <h5>Belinha e Lola na Redenção</h5>
                         </div>
                     </div>
                     <!-- Fotos 2ª coluna -->
                     <div class="row">
                         <div class="span3 portthumb">
-                            <img class="img-foto" src="img/portfolioph.jpg" alt="">
-                            <h5>Thumbnail label</h5>
+                            <img class="img-foto" src="img/fotos/foto_5.png" alt="">
+                            <h5>Java e Belinha</h5>
                         </div>
 
                         <div class="span3 portthumb">
-                            <img class="img-foto" src="img/portfolioph.jpg" alt="">
-                            <h5>Thumbnail label</h5>
+                            <img class="img-foto" src="img/fotos/foto_6.png" alt="">
+                            <h5>Belinha passeando na Redenção</h5>
                         </div>
 
                         <div class="span3 portthumb">
-                            <img class="img-foto" src="img/portfolioph.jpg" alt="">
-                            <h5>Thumbnail label</h5>
+                            <img class="img-foto" src="img/fotos/foto_7.png" alt="">
+                            <h5>Correndo e brincando =)</h5>
                         </div>
 
                         <div class="span3 portthumb">
-                            <img class="img-foto" src="img/portfolioph.jpg" alt="">
-                            <h5>Thumbnail label</h5>
+                            <img class="img-foto" src="img/fotos/foto_8.png" alt="">
+                            <h5>Networking! Fazendo novos amigos ;)</h5>
                         </div>
                     </div>
                 </div>
@@ -179,7 +179,6 @@
                         
                   <div class="span6">
                   </div>
-                </div>
 
                 <hr>
 
@@ -194,7 +193,6 @@
         <script type="text/javascript" src="js/jquery/jquery.js"></script>
         <script type="text/javascript" src="js/bootstrap.js"></script>
         <script type="text/javascript" src="js/functions.js"></script>
-        <script type="text/javascript" src="js/anchor.js"></script>
-        
+        <script type="text/javascript" src="js/anchor.js"></script> 
      </body>
 </html>
