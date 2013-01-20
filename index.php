@@ -48,7 +48,7 @@
                         <div class="nav-collapse collapse" id="nav-collapse" style="height: 0px;">
                             <ul class="nav" id="nav">
                                 <li><a class="anchorLink" href="#home">Home</a></li>
-                                <li><a class="anchorLink" href="#nosso_trabalho">Nosso Trabalho</a></li>
+                                <li><a class="anchorLink" href="#nosso_trabalho">Quem somos</a></li>
                                 <li><a class="anchorLink" href="#fotos">Fotos</a></li>
                                 <li><a class="anchorLink" href="#fale_conosco">Fale conosco</a></li>
                             </ul>
@@ -63,10 +63,10 @@
                         <div id="myCarousel" class="carousel slide">
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img src="img/slide-dog1.jpg" alt="">
+                                <img src="img/slide-dog-teste.jpg" alt="">
                             </div>
                             <div class="item">
-                                <img src="img/slide-dog2.jpg" alt=""> 
+                                <img src="img/slide-dog-teste2.jpg" alt=""> 
                             </div>
                             <div class="item ">
                                 <img src="img/slide-dog3.jpg" alt="">
@@ -80,7 +80,7 @@
                 <div class="page-title"></div>
                 <div id="nosso_trabalho">
                     <div class="span12">
-                            <h1>Nosso Trabalho</h1>
+                            <h1>Quem Somos</h1>
                     </div>
                     <div class="row">
                         <div class="span4">
@@ -177,15 +177,39 @@
                     </form>
                   </div>
                         
-                  <div class="span6">
-                  </div>
+                <div class="span6">
+                    <div class="span4">
+                        <h5>Os preços equivalem para 1 hora de passeio.*</h5>
+                    </div>
+                    <div class="span2 well">
+                        <h4>R$ 15,00</h4>
+                        Passeios com até 4 cães, mínimo 5x na semana (Seg. a Sáb.).
+                    </div>
+                    <div class="span2 well">
+                        <h4>R$ 20,00</h4>
+                        Passeios sozinhos, mínimo 5x na semana (Seg. a Sáb.).
+                    </div>
+                    <div class="span2 well">
+                        <h4>R$ 25,00</h4>
+                        Passeios esporádicos (Seg. a Sáb.).
+                    </div>
+                    <div class="span2 well">
+                        <h4>R$ 30,00</h4>
+                        Passeios aos domingos e feriados.
+                    </div>
+                    <div class="span4 well">
+                        <h5>Outros serviços, bem como cuidar do seu cãozinho
+                        caso você tenha que viajar, por favor, ligar para
+                        consultar disponibilidade e preço.</h5>
+                    </div>
+                    </div>
+                </div>
 
                 <hr>
 
                 <footer>
-                  <p class="span10 offset1 text-footer">O Doggie Walker é um projeto piloto por isso terá seus passeios, por enquanto, efetuados 
-                      nas áreas dos bairros Bom Fim, Independência e partes do bairro Floresta. Mas a medida que tivermos mais 
-                      aceitação expandiremos as áreas.</p>
+                  <p class="span10 offset1 text-footer">*O Doggie Walker terá seus passeios,
+                      no momento, nas áreas dos bairros Bom Fim, Independência e partes do bairro Floresta. </p>
                 </footer>
 
             </div>  

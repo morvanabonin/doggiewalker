@@ -5,11 +5,16 @@
         interval: 7000
     })
     
-    //    $('.anchorLink').click({
-    //    	$('.nav-collapse .collapse').hide();
-    //    })
+    $('.btn-navbar').click(function() {
+        $('.nav').show();
+    });
+      
+    $('.anchorLink').click(function() {
+        $('.nav').toggle();
+    });
     
     $(document).ready(function() {
+                
         $('#formulario').on('submit', function(){
             var nome = $("#nome").val();
             var telefone  = $("#telefone").val();

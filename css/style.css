@@ -47,23 +47,6 @@ h1 {
     margin: 20px 0 30px;
 }
 
-.img-foto:hover {
-    -webkit-transform: scale(1.04);
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0.67);
-    -moz-box-shadow: 0 0 30px rgba(0, 0, 0, 0.67);
-    -webkit-box-shadow: 0 0 30px rgba(0, 0, 0, 0.67);
-    -webkit-transition: all 0.2s linear;
-    -moz-transition: all 0.2s linear;
-    -ms-transition: all 0.2s linear;
-    -o-transition: all 0.2s linear;
-    transition: all 0.2s linear;
-    -moz-transform: scale(1.04);
-    animation-duration: 2s;
-    animation-timing-function: ease-in-out;
-    animation-fill-mode: forwards;
-    cursor: pointer;
-}
-
 .text-footer {
    text-align: center;
    font-size: 12px;
