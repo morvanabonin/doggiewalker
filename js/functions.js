@@ -2,14 +2,15 @@
     "use strict";
         
     $('.carousel').carousel({
-        interval: 7000
+        interval: 6000
     })
-    
-    //    $('.anchorLink').click({
-    //    	$('.nav-collapse .collapse').hide();
-    //    })
+
+    $('.anchorLink').click(function() {
+        $('.nav-collapse').collapse('toggle');
+    });
     
     $(document).ready(function() {
+                
         $('#formulario').on('submit', function(){
             var nome = $("#nome").val();
             var telefone  = $("#telefone").val();
