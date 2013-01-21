@@ -2,7 +2,7 @@
     "use strict";
         
     $('.carousel').carousel({
-        interval: 6000
+        interval: 7000
     })
 
     $('.anchorLink').click(function() {

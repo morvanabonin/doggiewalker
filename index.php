@@ -8,8 +8,8 @@
         <meta content="cachorro, cachorros, canino, dog, dogs, dogwalker, caminhar, caminhando, passeadores" name="keywords">
         <meta content="passeio, passeador, doggie, walker, porto alegre, doggiewalker, caes, cao, pet" name="keywords">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-        <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">
         <link rel="stylesheet" type="text/css" href="css/doggiestrap.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/media-queries.css">
@@ -222,7 +222,7 @@
             </div>  
         </div>
         <script type="text/javascript" src="js/jquery/jquery.js"></script>
-        <script type="text/javascript" src="js/bootstrap.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
         <script type="text/javascript" src="js/functions.js"></script>
         <script type="text/javascript" src="js/anchor.js"></script> 
      </body>
