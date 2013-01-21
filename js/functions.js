@@ -2,15 +2,11 @@
     "use strict";
         
     $('.carousel').carousel({
-        interval: 7000
+        interval: 6000
     })
-    
-    $('.btn-navbar').click(function() {
-        $('.nav').show();
-    });
-      
+
     $('.anchorLink').click(function() {
-        $('.nav').toggle();
+        $('.nav-collapse').collapse('toggle');
     });
     
     $(document).ready(function() {

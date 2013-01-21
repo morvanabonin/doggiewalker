@@ -10,7 +10,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
         <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css">
-        <link rel="stylesheet" type="text/css" href="css/ownstrap.css">
+        <link rel="stylesheet" type="text/css" href="css/doggiestrap.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/media-queries.css">
         
@@ -48,9 +48,9 @@
                         <div class="nav-collapse collapse" id="nav-collapse" style="height: 0px;">
                             <ul class="nav" id="nav">
                                 <li><a class="anchorLink" href="#home">Home</a></li>
-                                <li><a class="anchorLink" href="#nosso_trabalho">Quem somos</a></li>
+                                <li><a class="anchorLink" href="#quem-somos">Quem somos</a></li>
                                 <li><a class="anchorLink" href="#fotos">Fotos</a></li>
-                                <li><a class="anchorLink" href="#fale_conosco">Fale conosco</a></li>
+                                <li><a class="anchorLink" href="#fale-conosco">Fale conosco</a></li>
                             </ul>
                         </div><!--/.nav-collapse -->
                 </div>
@@ -63,10 +63,10 @@
                         <div id="myCarousel" class="carousel slide">
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img src="img/slide-dog-teste.jpg" alt="">
+                                <img src="img/slide-dog1.jpg" alt="">
                             </div>
                             <div class="item">
-                                <img src="img/slide-dog-teste2.jpg" alt=""> 
+                                <img src="img/slide-dog2.jpg" alt=""> 
                             </div>
                             <div class="item ">
                                 <img src="img/slide-dog3.jpg" alt="">
@@ -78,7 +78,7 @@
                     </div>
                 </div>
                 <div class="page-title"></div>
-                <div id="nosso_trabalho">
+                <div id="quem-somos">
                     <div class="span12">
                             <h1>Quem Somos</h1>
                     </div>
@@ -99,7 +99,7 @@
                             Se o nosso mundo é rico em imagens, a dos cães, vem carregado de cheiros e sensações. E qualquer coisa acompanha uma porção de informações: um poste é uma fonte rica de notícias, diz se outro animal passou por ali, quem era, e há quanto tempo isso ocorreu.
                         </div>
                         <div class="span4">
-                            E é através desse aprendizado e entendimento que desenvolvemos nossa ideia de trabalho de passear com poucos cães para justamente dar essa oportunidade e liberdade para o animal, optamos por pegar mais horários do que em uma hora pegar mais cães.
+                            E é através desse aprendizado e entendimento que desenvolvemos nossa ideia de trabalho de passear com poucos cães para justamente dar essa oportunidade e liberdade para o animal, optamos por pegar mais horários do que em uma hora pegar muitos cães.
                         </div>
                     </div>
                 </div>
@@ -112,39 +112,39 @@
                     <div class="row">
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_1.png">
-                            <h5>Java e Belinha passeando</h5>
+                            <h5>galera passeando na Redenção</h5>
                         </div>
 
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_2.png">
-                            <h5>Belinha</h5>
+                            <h5>é meu...é meu</h5>
                         </div>
 
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_3.png" alt="">
-                            <h5>Lola</h5>
+                            <h5>olha eu na Redenção, fazendo pose pra foto</h5>
                         </div>
 
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_4.png" alt="">
-                            <h5>Belinha e Lola na Redenção</h5>
+                            <h5>aproveitando o dia lindo</h5>
                         </div>
                     </div>
                     <!-- Fotos 2ª coluna -->
                     <div class="row">
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_5.png" alt="">
-                            <h5>Java e Belinha</h5>
+                            <h5>hm...acho que alguém me chamou</h5>
                         </div>
 
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_6.png" alt="">
-                            <h5>Belinha passeando na Redenção</h5>
+                            <h5>cheirando a grama</h5>
                         </div>
 
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_7.png" alt="">
-                            <h5>Correndo e brincando =)</h5>
+                            <h5>correndo e brincando =)</h5>
                         </div>
 
                         <div class="span3 portthumb">
@@ -155,30 +155,37 @@
                 </div>
                 <!-- Services row of columns -->
                 <div class="page-title"></div>
-                <div id="fale_conosco" class="row">
+                <div id="fale-conosco" class="row">
                   <div class="span12">
                     <h1>Fale conosco</h1>
                   </div>
                     
-                  <div class="span6">
-                    <form action="mail/controller.php" method="POST" name="formulario" id="formulario">
-                      <label>Nome</label>
-                      <input class="span6" type="text" name="nome" id="nome" placeholder="Seu Nome">
-                      <label>Email</label>
-                      <input class="span6" type="text" name="email" id="email" placeholder="seu_email@email.com">
-                      <label>Telefone</label>
-                      <input class="span6" type="text" name="telefone" id="telefone" placeholder="ex.9999-9999">
-                      <label>Assunto</label>
-                      <input class="span6" type="text" name="assunto" id="assunto" placeholder="Assunto">
-                      <label>Mensagem</label>
-                      <textarea class="input-xlarge span6" name="mensagem" id="mensagem" rows="6" placeholder="Coloque sua mensagem aqui."></textarea>
-                      <span class="enviar"><button type="submit" class="btn btn-primary">Enviar</button></span>
-                      <span class="limpar"><button type="reset" class="btn btn-danger ">Cancelar</button></span>
-                    </form>
-                  </div>
+                <div class="span6">
+                    <div class="span4">
+                        <h4>Contatos</h4>
+                        <h5>Ligue para Tel. (51) 3061-9315, Cel. (51) 9376-8329 ou mande-nos uma email. </h5>
+                    </div>
+                    <div class="span6">
+                        <form action="mail/controller.php" method="POST" name="formulario" id="formulario">
+                            <label>Nome</label>
+                            <input class="span6" type="text" name="nome" id="nome" placeholder="Seu Nome">
+                            <label>Email</label>
+                            <input class="span6" type="text" name="email" id="email" placeholder="seu_email@email.com">
+                            <label>Telefone</label>
+                            <input class="span6" type="text" name="telefone" id="telefone" placeholder="ex.9999-9999">
+                            <label>Assunto</label>
+                            <input class="span6" type="text" name="assunto" id="assunto" placeholder="Assunto">
+                            <label>Mensagem</label>
+                            <textarea class="input-xlarge span6" name="mensagem" id="mensagem" rows="6" placeholder="Coloque sua mensagem aqui."></textarea>
+                            <span class="enviar"><button type="submit" class="btn btn-primary">Enviar</button></span>
+                            <span class="limpar"><button type="reset" class="btn btn-danger ">Cancelar</button></span>
+                        </form>
+                    </div>
+                </div>
                         
                 <div class="span6">
                     <div class="span4">
+                        <h4>Preços</h4>
                         <h5>Os preços equivalem para 1 hora de passeio.*</h5>
                     </div>
                     <div class="span2 well">
