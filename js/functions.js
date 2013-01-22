@@ -2,7 +2,7 @@
     "use strict";
         
     $('.carousel').carousel({
-        interval: 7000
+        interval: 10000
     })
 
     $('.anchorLink').click(function() {
@@ -26,17 +26,14 @@
                     "assunto"    : assunto,
                     "mensagem"   : mensagem
                 };
-                $('#load').show();
                 $.ajax({
                     url:'mail/controller.php',
                     async:true,
                     complete: function(json) {
                         var result = eval('(' + json.responseText + ')');
                         if(result == true) {
-                            $('#load').hide();
                             alert('Mensagem enviada com sucesso');
                         } else {
-                            $('#load').hide();
                             alert('Ocorreu um erro ao enviar a mensagem!');
                         }
                     },

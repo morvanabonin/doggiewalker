@@ -83,23 +83,13 @@
                             <h1>Quem Somos</h1>
                     </div>
                     <div class="row">
-                        <div class="span4">
-                            Com mais de cinco anos trabalhando com cães em Porto Alegre, no bairro Bom Fim e arredores. Nosso trabalho tem como missão presar a qualidade do passeio. Ao longo desses anos trabalhando com cães, aprendemos a conhecer o e respeitar o que para o animal é primordial em um passeio: cheirar, brincar e interagir com outros cães.
+                        <div class="span6">
+                            O Doggie Walker trabalha há mais de cinco anos com passeios de cães em Porto Alegre, no Bairro Bom Fim e arredores. Nosso trabalho tem como missão prezar a qualidade do passeio. Ao longo desses anos trabalhando com cães, aprendemos a conhecer e a respeitar o que para o animal é primordial em um passeio: cheirar, brincar e interagir com outros cães.
+                            Isso nos fez aprender que não só em tamanhos ou raças os cães são diferentes, eles se diferenciam muito pela idade: um cão mais velho se contenta em apenas cheirar, enquanto os mais novos querem brincar, correr, conhecer novos cães, além de cheirar, claro, tudo que for possível e viavél.
                         </div>
-                        <div class="span4">
-                            Isso nos fez aprender que não só em tamanhos ou raças os cães são diferentes, eles se diferenciam muito pela idade também, um cão mais velho vai se contentar em apenas cheirar, enquanto os mais novos querem brincar, correr, conhecer novos cães, além de cheirar, claro, tudo e o quanto mais for possível e viavél.
-                        </div>
-                        <div class="span4">
-                            Dessa forma deixamos os cães mais livres e não correndo o risco de perder o controle sobre os outros, ou se no meio desses vários cães um for um pouco mais agressivo, acabarão os outros mais mansos e que apenas querem cheirar, pagando por isso. Qualidade de passeio para nós é isso. E para você que ama seu cão, o que é?
-                        </div>
-                    </div>
-                <!-- Nosso Serviço - 2ª linha  -->
-                    <div class="row">
-                        <div class="span4">
-                            Se o nosso mundo é rico em imagens, a dos cães, vem carregado de cheiros e sensações. E qualquer coisa acompanha uma porção de informações: um poste é uma fonte rica de notícias, diz se outro animal passou por ali, quem era, e há quanto tempo isso ocorreu.
-                        </div>
-                        <div class="span4">
+                        <div class="span6">
                             E é através desse aprendizado e entendimento que desenvolvemos nossa ideia de trabalho de passear com poucos cães para justamente dar essa oportunidade e liberdade para o animal, optamos por pegar mais horários do que em uma hora pegar muitos cães.
+                            Dessa forma, deixamos os cães mais livres, sem correr o risco de perder o controle sobre a situação. Qualidade de passeio para nós é isso. E para você que ama seu cão, o que é?
                         </div>
                     </div>
                 </div>
@@ -112,44 +102,44 @@
                     <div class="row">
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_1.png">
-                            <h5>galera passeando na Redenção</h5>
+                            <h5><em>Galera passeando na Redenção</em></h5>
                         </div>
 
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_2.png">
-                            <h5>é meu...é meu</h5>
+                            <h5><em>"É meu...é meu"</em></h5>
                         </div>
 
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_3.png" alt="">
-                            <h5>olha eu na Redenção, fazendo pose pra foto</h5>
+                            <h5><em>"Olha eu na Redenção, fazendo pose pra foto"</em></h5>
                         </div>
 
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_4.png" alt="">
-                            <h5>aproveitando o dia lindo</h5>
+                            <h5><em>Aproveitando o dia lindo</em></h5>
                         </div>
                     </div>
                     <!-- Fotos 2ª coluna -->
                     <div class="row">
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_5.png" alt="">
-                            <h5>hm...acho que alguém me chamou</h5>
+                            <h5><em>"Hm...acho que alguém me chamou"</em></h5>
                         </div>
 
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_6.png" alt="">
-                            <h5>cheirando a grama</h5>
+                            <h5><em>Cheirando a grama</em></h5>
                         </div>
 
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_7.png" alt="">
-                            <h5>correndo e brincando =)</h5>
+                            <h5><em>Correndo e brincando =)</em></h5>
                         </div>
 
                         <div class="span3 portthumb">
                             <img class="img-foto" src="img/fotos/foto_8.png" alt="">
-                            <h5>Networking! Fazendo novos amigos ;)</h5>
+                            <h5><em>Networking! Fazendo novos amigos ;)</em></h5>
                         </div>
                     </div>
                 </div>
@@ -161,9 +151,13 @@
                   </div>
                     
                 <div class="span6">
-                    <div class="span4">
+                    <div class="span5">
                         <h4>Contatos</h4>
-                        <h5>Ligue para Tel. (51) 3061-9315, Cel. (51) 9376-8329 ou mande-nos uma email. </h5>
+                        <h5>
+                            Ligue para Tel. (51) 3061-9315, Cel. (51) 9376-8329 ou mande-nos uma email.
+                            Você também pode nos encontrar no facebook, visite nossa página 
+                            <a href="https://www.facebook.com/doggiewalker.com.br" target="_blank"><img src="img/facebook-icon.png"></a>
+                        </h5>
                     </div>
                     <div class="span6">
                         <form action="mail/controller.php" method="POST" name="formulario" id="formulario">
@@ -177,8 +171,16 @@
                             <input class="span6" type="text" name="assunto" id="assunto" placeholder="Assunto">
                             <label>Mensagem</label>
                             <textarea class="input-xlarge span6" name="mensagem" id="mensagem" rows="6" placeholder="Coloque sua mensagem aqui."></textarea>
-                            <span class="enviar"><button type="submit" class="btn btn-primary">Enviar</button></span>
-                            <span class="limpar"><button type="reset" class="btn btn-danger ">Cancelar</button></span>
+                            <span class="enviar">
+                                <button type="submit" class="btn btn-success">
+                                    <i class="icon-white icon-envelope"></i> Enviar
+                                </button>
+                            </span>
+                            <span class="limpar">
+                                <button type="reset" class="btn btn-danger">
+                                    <i class="icon-white icon-trash"></i> Cancelar
+                                </button>
+                            </span>
                         </form>
                     </div>
                 </div>
@@ -216,7 +218,8 @@
 
                 <footer>
                   <p class="span10 offset1 text-footer">*O Doggie Walker terá seus passeios,
-                      no momento, nas áreas dos bairros Bom Fim, Independência e partes do bairro Floresta. </p>
+                      no momento, nas áreas dos bairros Bom Fim, Independência e partes do bairro Floresta.
+                  </p>
                 </footer>
 
             </div>  
